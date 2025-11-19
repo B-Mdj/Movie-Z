@@ -57,7 +57,7 @@ const upcoming = [
     id: "u10",
     title: "Sonic the Hedgehog 3",
     rating: 7.4,
-    poster: "/posters/sonic3.jpg",
+    poster: "/posters/sonic3.png",
   },
 ];
 
@@ -96,31 +96,31 @@ const popular = [
     id: "p6",
     title: "Interstellar",
     rating: 8.6,
-    poster: "/posters/interstellar.jpg",
+    poster: "/posters/interstellar.png",
   },
   {
     id: "p7",
     title: "Se7en",
     rating: 8.6,
-    poster: "/posters/se7en.jpg",
+    poster: "/posters/se7en.png",
   },
   {
     id: "p8",
     title: "It's a Wonderful Life",
     rating: 8.6,
-    poster: "/posters/its-a-wonderful-life.jpg",
+    poster: "/posters/its-a-wonderful-life.png",
   },
   {
     id: "p9",
     title: "Seven Samurai",
     rating: 8.6,
-    poster: "/posters/seven-samurai.jpg",
+    poster: "/posters/seven-samurai.png",
   },
   {
     id: "p10",
     title: "The Silence of the Lambs",
     rating: 8.6,
-    poster: "/posters/silence-lambs.jpg",
+    poster: "/posters/silence-lambs.png",
   },
 ];
 
@@ -141,7 +141,7 @@ const topRated = [
     id: "t3",
     title: "The Good, the Bad and the Ugly",
     rating: 8.8,
-    poster: "/posters/good-bad-ugly.jpg",
+    poster: "/posters/good-bad-ugly.png",
   },
   {
     id: "t4",
@@ -159,31 +159,31 @@ const topRated = [
     id: "t6",
     title: "Saving Private Ryan",
     rating: 8.6,
-    poster: "/posters/saving-private-ryan.jpg",
+    poster: "/posters/saving-private-ryan.png",
   },
   {
     id: "t7",
     title: "City of God",
     rating: 8.6,
-    poster: "/posters/city-of-god.jpg",
+    poster: "/posters/city-of-god.png",
   },
   {
     id: "t8",
     title: "The Green Mile",
     rating: 8.6,
-    poster: "/posters/green-mile.jpg",
+    poster: "/posters/green-mile.png",
   },
   {
     id: "t9",
     title: "Life Is Beautiful",
     rating: 8.6,
-    poster: "/posters/life-is-beautiful.jpg",
+    poster: "/posters/life-is-beautiful.png",
   },
   {
     id: "t10",
     title: "Terminator 2: Judgment Day",
     rating: 8.5,
-    poster: "/posters/terminator2.jpg",
+    poster: "/posters/terminator2.png",
   },
 ];
 
@@ -228,5 +228,3 @@ export const featuredSlides = [
     backdrop: "/banners/wicked-hero.jpg",
   },
 ];
-
-

@@ -7,7 +7,7 @@ export default function MovieCard({ movie }) {
   return (
     <Card className="border-none shadow-sm hover:shadow-md transition rounded-xl overflow-hidden bg-white">
       <CardContent className="p-0">
-        <div className="w-full aspect-[2/3] bg-gray-200 overflow-hidden">
+        <div className="w-full aspect-2/3 bg-gray-200 overflow-hidden">
           <img
             src={movie.poster}
             alt={movie.title}
