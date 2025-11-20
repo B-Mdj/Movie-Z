@@ -38,7 +38,7 @@ const upcoming = [
   {
     id: "u7",
     title: "Y2K",
-    rating: 7.0,
+    rating: 7.1,
     poster: "/posters/y2k.jpg",
   },
   {
@@ -77,7 +77,7 @@ const popular = [
   {
     id: "p3",
     title: "The Dark Knight",
-    rating: 9.0,
+    rating: 9.1,
     poster: "/posters/dark-knight.jpg",
   },
   {
@@ -89,7 +89,7 @@ const popular = [
   {
     id: "p5",
     title: "The Lord of the Rings: The Return of the King",
-    rating: 9.0,
+    rating: 9.2,
     poster: "/posters/lotr-rotk.jpg",
   },
   {

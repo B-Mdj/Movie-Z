@@ -9,20 +9,17 @@ export default function Footer() {
               © 2024 Movie Z. All Rights Reserved.
             </p>
           </div>
-
           <div>
             <p className="font-semibold text-xs mb-2">Company</p>
             <p>About us</p>
             <p>Careers</p>
             <p>Press</p>
           </div>
-
           <div>
             <p className="font-semibold text-xs mb-2">Contact Information</p>
             <p>Email: support@moviez.com</p>
             <p>Phone: +1 (555) 123-4567</p>
           </div>
-
           <div>
             <p className="font-semibold text-xs mb-2">Follow us</p>
             <p>Facebook</p>

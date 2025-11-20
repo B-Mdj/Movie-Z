@@ -14,7 +14,6 @@ export default function MovieCard({ movie }) {
             className="w-full h-full object-cover"
           />
         </div>
-
         <div className="px-3 pb-3 pt-2">
           <div className="flex items-center text-[11px] text-gray-500 gap-1">
             <Star className="w-3 h-3 text-yellow-400 fill-yellow-400" />
