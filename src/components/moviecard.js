@@ -5,7 +5,7 @@ import { Star } from "lucide-react";
 
 export default function MovieCard({ movie }) {
   return (
-    <Card className="border-none shadow-sm hover:shadow-md transition rounded-xl overflow-hidden bg-white">
+    <Card className="border-none shadow-sm hover:shadow-md transition rounded-xl overflow-hidden bg-secondary">
       <CardContent className="p-0">
         <div className="w-full aspect-2/3 bg-gray-200 overflow-hidden">
           <img

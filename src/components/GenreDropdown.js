@@ -14,8 +14,8 @@ export default function GenreDropdown() {
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
         <button className="flex items-center gap-2 text-xs md:text-sm text-gray-700 border rounded-full px-3 py-1 bg-white shadow-sm">
-          <span>Genre</span>
           <ChevronDown className="w-3 h-3 text-gray-600" />
+          <span>Genre</span>
         </button>
       </DropdownMenuTrigger>
       <DropdownMenuContent
